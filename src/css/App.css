@@ -167,9 +167,7 @@ img {
        
     }
 
-   .footer__links {
-       text-align: center;
-   }
+   
 
     .nav-logo {
         margin-top: 0;
@@ -192,6 +190,13 @@ img {
 
 }
 
+.footer__links {
+    text-align: center;
+}
+
+.scrolldown {
+     bottom: -110px;
+}
 
     @media screen and (max-width: 768px) {
         
