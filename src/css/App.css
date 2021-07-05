@@ -199,7 +199,7 @@ img {
     }
 
     .nav-logo {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
 
 }
@@ -214,12 +214,5 @@ img {
 
     }
 
-    /* For large devices  */
-
-    @media screen and (min-width: 1024px) {
-
-        .nav-logo {
-              margin-top: 2rem;
-        }
-    }
+ 
 
