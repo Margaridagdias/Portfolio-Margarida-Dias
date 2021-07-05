@@ -43,7 +43,10 @@ const Hero = () => {
               <h1 className="home__title">Hi, I'm Margarida!</h1>
               <h3 className="home__subtitle">UX Researcher</h3>
               <p className="home__description">
-                I'm excited to help create a personal and effective user experience where my passion for UX Research, UX Testing and Web Development come together.
+                I'm excited to help companies understand and learn about who
+                their clients are and what is important to them, and this is
+                where my passion for UX Research and Testing, Web Development
+                and to comunicate come together!
               </p>
               <div className="home__social">
                 <a
@@ -75,17 +78,15 @@ const Hero = () => {
                   <i class="far fa-envelope"></i>
                 </a>
               </div>
-              
             </div>
           </div>
         </div>
 
-          <div className="scrolldown">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-          
+        <div className="scrolldown">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
       </section>
 
       <script src="https://unpkg.com/aos@next/dist/aos.js"></script>

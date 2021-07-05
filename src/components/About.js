@@ -10,7 +10,7 @@ const About = () => {
       <div className="about__container container">
         <div className="about__data">
           <p className="about__description">
-            Hi! I'm a UX Researcher with a background in User Testing, Web Development and Communication & Media.
+            Hi! I'm a UX Researcher with a background in User Experience Testing, Web Development and Communication & Media.
           </p>
 
           <div className="about__info">
