@@ -34,7 +34,7 @@ const Navbar = () => {
           </li>
 
           <li className="nav-item">
-            <a href="#skills" className="nav-links" onClick={closeMobileMenu}>
+            <a href="#education" className="nav-links" onClick={closeMobileMenu}>
               Education
             </a>
           </li>
