@@ -167,21 +167,7 @@ img {
        
     }
 
-    .qualification__data {
-        gap: .5rem;
-    }
-
-    .project_img {
-        width: 200px;
-    }
-
-    .footer__links {
-        text-align: center;
-    }
-
-    .scrolldown {
-        bottom: -100;
-    }
+   
 
     .nav-logo {
         margin-top: 0;
@@ -196,11 +182,7 @@ img {
     margin-right: 13rem;
 }
 
-    .qualification__sections {
-        display: grid;
-        grid-template-columns: .6fr;
-        justify-content: center;
-    }
+
 
     .nav-logo {
         margin-top: 1rem;
