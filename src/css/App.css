@@ -163,7 +163,7 @@ img {
     }
 
     .home__img {
-            margin-right: 15rem;
+            margin-right: 13rem;
        
     }
 
@@ -193,7 +193,7 @@ img {
 @media screen and (max-width: 568px) {
 
 .home__img {
-    margin-right: 14rem;
+    margin-right: 13rem;
 }
 
     .qualification__sections {
@@ -212,9 +212,8 @@ img {
     @media screen and (max-width: 768px) {
         
 .home__img {
-    margin-right: 15rem;
-}
-          
+    margin-right: 16rem;
+}     
 
     }
 
