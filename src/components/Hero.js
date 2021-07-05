@@ -43,10 +43,12 @@ const Hero = () => {
               <h1 className="home__title">Hi, I'm Margarida!</h1>
               <h3 className="home__subtitle">UX Researcher</h3>
               <p className="home__description">
-                I'm excited to help companies understand and learn about who
-                their clients are and what is important to them, and this is
-                where my passion for UX Research and Testing, Web Development
-                and to comunicate come together!
+                I'm excited to help companies better understand their users and
+                what's important to them,
+                <br /> and this is where my passion for UX
+                Research and Testing, 
+                <br />Web Development and to comunicate come
+                together!
               </p>
               <div className="home__social">
                 <a
