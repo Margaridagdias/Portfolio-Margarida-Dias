@@ -167,7 +167,9 @@ img {
        
     }
 
-   
+   .footer__links {
+       text-align: center;
+   }
 
     .nav-logo {
         margin-top: 0;
