@@ -182,6 +182,9 @@ img {
         bottom: -100;
     }
 
+    .nav-logo {
+        margin-top: 0;
+    }
 }
 
 
@@ -208,9 +211,7 @@ img {
     @media screen and (max-width: 768px) {
         
 
-          .nav-logo {
-              margin-top: 2rem;
-          }
+          
 
     }
 
