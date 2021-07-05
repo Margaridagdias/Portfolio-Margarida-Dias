@@ -159,6 +159,7 @@ img {
 
     .home__blob {
         width: 180px;
+        justify-content: center;
     }
 
     .qualification__data {
@@ -167,6 +168,14 @@ img {
 
     .project_img {
         width: 200px;
+    }
+
+    .footer__links {
+        text-align: center;
+    }
+
+    .scrolldown {
+        bottom: -100;
     }
 
 }
