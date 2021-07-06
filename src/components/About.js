@@ -20,7 +20,7 @@ const About = () => {
             </div>
 
             <div>
-              <span className="about__info-title">UI</span>
+              <span className="about__info-title">UX/UI</span>
               <span className="about__info-name">Design</span>
             </div>
 
