@@ -44,11 +44,7 @@ const Hero = () => {
               <h3 className="home__subtitle">UX/UI Designer and Researcher</h3>
               <p className="home__description">
                 I'm excited to help companies better understand their users and
-                what's important to them,
-                <br /> and this is where my passion for UX
-                Research and Testing, 
-                <br />Web Development and to comunicate come
-                together!
+                what matters to them and build design powerful user interfaces.
               </p>
               <div className="home__social">
                 <a
