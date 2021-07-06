@@ -41,7 +41,7 @@ const Hero = () => {
             </div>
             <div className="home__data">
               <h1 className="home__title">Hi, I'm Margarida!</h1>
-              <h3 className="home__subtitle">UX Researcher</h3>
+              <h3 className="home__subtitle">UX/UI Designer and Researcher</h3>
               <p className="home__description">
                 I'm excited to help companies better understand their users and
                 what's important to them,

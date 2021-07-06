@@ -2,7 +2,6 @@ import React from "react";
 import "../components/About.css";
 
 const About = () => {
-
   return (
     <section className="about section" id="about">
       <h2 className="section__title">About me</h2>
@@ -10,7 +9,8 @@ const About = () => {
       <div className="about__container container">
         <div className="about__data">
           <p className="about__description">
-            Hi! I'm a UX Researcher with a background in User Experience Testing, Web Development and Communication & Media.
+            Hi! I'm a UX/UI Designer and Researcher with a background in User Experience
+            Testing, Web Development and Communication & Media.
           </p>
 
           <div className="about__info">
