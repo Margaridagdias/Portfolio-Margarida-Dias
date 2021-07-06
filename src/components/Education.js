@@ -64,7 +64,7 @@ const Education = () => {
                 <span className="qualification__subtitle">remote - Sintese 21</span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
-                  2020
+                  2021
                 </div>
               </div>
             </div>
