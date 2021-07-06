@@ -11,18 +11,36 @@ const Education = () => {
 
         <div className="qualification__sections">
           <div className="qualification__content">
+            {/* qualification 2 */}
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+
+              <div>
+                <h3 className="qualification__title">
+                  DESIGN RULES: Principles + Practices for Great UI Design
+                </h3>
+                <span className="qualification__subtitle">remote - Udemy</span>
+                <div className="qualification__calendar">
+                  <i class="far fa-calendar-alt"></i>
+                  2021
+                </div>
+              </div>
+            </div>
+
             {/* qualification 1 */}
             <div className="qualification__data">
               <div className="moving1">
                 <h3 className="qualification__title">
-                  Communication and Media
+                  The Complete Figma Course – Designing Mobile & Web App UI/UX
                 </h3>
-                <span className="qualification__subtitle">
-                  Lisbon - Universidade Lusíada de Lisboa
-                </span>
+                <span className="qualification__subtitle">remote - Udemy</span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
-                  2017-2020
+                  2021
                 </div>
               </div>
               <div>
@@ -41,11 +59,9 @@ const Education = () => {
 
               <div>
                 <h3 className="qualification__title">
-                  Full Stack Web Development
+                  UX Research and Qualitative Analysis
                 </h3>
-                <span className="qualification__subtitle">
-                  Lisbon - Ironhack
-                </span>
+                <span className="qualification__subtitle">remote - Udemy</span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
                   2020
@@ -57,12 +73,14 @@ const Education = () => {
             <div className="qualification__data">
               <div className="moving1">
                 <h3 className="qualification__title">
-                  UX Research and Qualitative Analysis
+                  Full Stack Web Development
                 </h3>
-                <span className="qualification__subtitle">remote - Udemy</span>
+                <span className="qualification__subtitle">
+                  Lisbon - Ironhack
+                </span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
-                  2021
+                  2020
                 </div>
               </div>
               <div>
@@ -80,31 +98,13 @@ const Education = () => {
 
               <div>
                 <h3 className="qualification__title">
-                  The Complete Figma Course – Designing Mobile & Web App UI/UX
+                  Bachelor's degree in Communication and Media
                 </h3>
-                <span className="qualification__subtitle">remote - Udemy</span>
+                <span className="qualification__subtitle">Lisbon - Universidade Lusíada de Lisboa
+                </span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
-                  2021
-                </div>
-              </div>
-              {/* qualification 5 */}
-              <div className="qualification__data">
-                <div className="moving1">
-                  <h3 className="qualification__title">
-                    DESIGN RULES: Principles + Practices for Great UI Design
-                  </h3>
-                  <span className="qualification__subtitle">
-                    remote - Udemy
-                  </span>
-                  <div className="qualification__calendar">
-                    <i class="far fa-calendar-alt"></i>
-                    2021
-                  </div>
-                </div>
-                <div>
-                  <span className="qualification__rounder"></span>
-                  <span className="qualification__line"></span>
+                  2017 - 2020
                 </div>
               </div>
             </div>
