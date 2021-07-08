@@ -61,7 +61,9 @@ const Education = () => {
                 <h3 className="qualification__title">
                   UX Research and Qualitative Analysis
                 </h3>
-                <span className="qualification__subtitle">remote - Sintese 21</span>
+                <span className="qualification__subtitle">
+                  remote - Sintese 21
+                </span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
                   2021
@@ -100,7 +102,8 @@ const Education = () => {
                 <h3 className="qualification__title">
                   Bachelor's degree in Communication and Media
                 </h3>
-                <span className="qualification__subtitle">Lisbon - Universidade Lusíada de Lisboa
+                <span className="qualification__subtitle">
+                  Lisbon - Universidade Lusíada de Lisboa
                 </span>
                 <div className="qualification__calendar">
                   <i class="far fa-calendar-alt"></i>
