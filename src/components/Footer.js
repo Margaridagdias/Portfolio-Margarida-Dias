@@ -9,8 +9,8 @@ const Footer = () => {
               <div className="footer__bg">
                 <div className="footer__container container grid">
           <div>
-            <h1 className="footer__title">Margarida</h1>
-            <span className="footer__subtitle">UX Researcher</span>
+            <h1 className="footer__title">Margarida Dias</h1>
+            <span className="footer__subtitle">UX/UI Designer and Researcher</span>
           </div>
           <ul className="footer__links">
            <li>
