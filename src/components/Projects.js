@@ -40,7 +40,7 @@ const Projects = () => {
               {/* Project 0 */}
               <div className="projects__content grid">
                 <img
-                  src="/images/cleankangaroo-img.png"
+                  src="/images/thumbnail.png"
                   alt=""
                   className="projects__img"
                 />
