@@ -5,7 +5,7 @@
     --hue-color: 250;
 
     --overall-color: #debce2;
-    --body-color: hsl(var(--hue-color), 4%, 17%);
+    --body-color: hsl(250, 4%, 17%);
     --first-color: #F9FAFB;
     --second-color: #F9FAFB;
     --third-color: #d4d4d4;
@@ -71,7 +71,6 @@
 
 /*==================== BASE ====================*/
 
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -87,8 +86,9 @@ body {
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
     background-color: var(--body-color);
-    color: var(--text-color);
+    color: #debce2;
 }
+
 
 h1,
 h2,

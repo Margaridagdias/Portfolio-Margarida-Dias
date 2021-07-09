@@ -33,7 +33,10 @@
 .projects__title {
     font-size: var(--h3-font-size);
     margin-bottom: var(--mb-0-5);
-    color: var(--third-color);
+    color: var(--darker-body-color);
+    background-color: var(--overall-color);
+    padding: .5rem;
+    border-radius: 1rem;
 }
 
 .projects__title:hover {
@@ -42,6 +45,7 @@
 
 .projects__description {
     margin-bottom: 3rem;
+    margin-top: 1rem;
     color: var(--third-color-darker);
 }
 

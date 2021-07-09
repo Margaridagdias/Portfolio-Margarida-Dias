@@ -28,12 +28,35 @@ const Projects = () => {
 
       <div className="projects__container container">
         <div>
-          <Swiper navigation={true} className="mySwiper"
+          <Swiper
+            navigation={true}
+            className="mySwiper"
             cssMode={true}
             pagination={true}
             mousewheel={true}
             keyboard={true}
           >
+            <SwiperSlide>
+              {/* Project 0 */}
+              <div className="projects__content grid">
+                <img
+                  src="/images/cleankangaroo-img.png"
+                  alt=""
+                  className="projects__img"
+                />
+                <div className="projects__data">
+                  <a
+                    href="https://mgd-clean-kangaroo.netlify.app/"
+                    className="projects__title"
+                  >
+                    Clean Kangaroo
+                  </a>
+                  <p className="projects__description">
+                    Laundry Services App | UX/UI prototype</p>
+                </div>
+              </div>
+            </SwiperSlide>
+
             <SwiperSlide>
               {/* Project 1 */}
               <div className="projects__content grid">
