@@ -58,6 +58,16 @@ const Hero = () => {
               </div>
               <div className="home__social">
                 <a
+                  href="https://www.behance.net/margaridagdias"
+                  className="home__social-icon"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i class="fab fa-behance-square"></i>
+                </a>
+              </div>
+              <div className="home__social">
+                <a
                   href="https://github.com/Margaridagdias"
                   className="home__social-icon"
                   target="_blank"
