@@ -52,7 +52,26 @@ const Projects = () => {
                     Clean Kangaroo
                   </a>
                   <p className="projects__description">
-                    Laundry Services App | UX/UI prototype</p>
+                    Laundry Services App | UX/UI prototype
+                  </p>
+                </div>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              {/* Project 0.0 */}
+              <div className="projects__content grid">
+                <img src="/images/BTB.png" alt="" className="projects__img" />
+                <div className="projects__data">
+                  <a
+                    href="https://bythebeauty.netlify.app/"
+                    className="projects__title"
+                  >
+                    BY THE BEAUTY
+                  </a>
+                  <p className="projects__description">
+                    Brand Identity Manual | University Project
+                  </p>
                 </div>
               </div>
             </SwiperSlide>
