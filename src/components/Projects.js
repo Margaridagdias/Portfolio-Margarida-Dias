@@ -70,7 +70,7 @@ const Projects = () => {
                     BY THE BEAUTY
                   </a>
                   <p className="projects__description">
-                    Brand Identity Manual | University Project
+                    Visual Identity Manual | University Project
                   </p>
                 </div>
               </div>
