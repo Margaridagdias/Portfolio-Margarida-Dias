@@ -99,6 +99,24 @@ const Projects = () => {
             </SwiperSlide>
 
             <SwiperSlide>
+              {/* Project 1.2 */}
+              <div className="projects__content grid">
+                <img src="/images/stripe.png" alt="" className="projects__img" />
+                <div className="projects__data">
+                  <a
+                    href="https://submenu-site.netlify.app"
+                    className="projects__title"
+                  >
+                    Stripe
+                  </a>
+                  <p className="projects__description">
+                    Simple Home Page using React!
+                  </p>
+                </div>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
               {/* Project 2 */}
               <div className="projects__content grid">
                 <img
