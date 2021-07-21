@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
 import "swiper/swiper.min.css";
-import "swiper/components/navigation/navigation.min.css"
+import "swiper/components/navigation/navigation.min.css";
 
 // import Swiper core and required modules
 import SwiperCore, {
@@ -19,8 +19,6 @@ import SwiperCore, {
 SwiperCore.use([Navigation, Pagination, Mousewheel, Keyboard]);
 
 const Projects = () => {
-
-
   return (
     <section className="projects section" id="projects">
       <h2 className="section__title">Projects</h2>
@@ -36,6 +34,26 @@ const Projects = () => {
             mousewheel={true}
             keyboard={true}
           >
+            <SwiperSlide>
+              {/* Project -1 */}
+              <div className="projects__content grid">
+                <img
+                  src="/images/thumbnail2.png"
+                  alt=""
+                  className="projects__img"
+                />
+                <div className="projects__data">
+                  <a
+                    href="https://gobank.netlify.app/"
+                    className="projects__title"
+                  >
+                    GoBank
+                  </a>
+                  <p className="projects__description">Banking App</p>
+                </div>
+              </div>
+            </SwiperSlide>
+
             <SwiperSlide>
               {/* Project 0 */}
               <div className="projects__content grid">
@@ -59,7 +77,7 @@ const Projects = () => {
             </SwiperSlide>
 
             <SwiperSlide>
-              {/* Project 0.0 */}
+              {/* Project 0.5 */}
               <div className="projects__content grid">
                 <img src="/images/BTB.png" alt="" className="projects__img" />
                 <div className="projects__data">
@@ -101,7 +119,11 @@ const Projects = () => {
             <SwiperSlide>
               {/* Project 1.2 */}
               <div className="projects__content grid">
-                <img src="/images/stripe.png" alt="" className="projects__img" />
+                <img
+                  src="/images/stripe.png"
+                  alt=""
+                  className="projects__img"
+                />
                 <div className="projects__data">
                   <a
                     href="https://submenu-site.netlify.app"
