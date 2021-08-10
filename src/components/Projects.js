@@ -70,7 +70,7 @@ const Projects = () => {
                     Clean Kangaroo
                   </a>
                   <p className="projects__description">
-                    Laundry Services App | UX/UI prototype
+                    Laundry Services App
                   </p>
                 </div>
               </div>
