@@ -69,9 +69,7 @@ const Projects = () => {
                   >
                     Clean Kangaroo
                   </a>
-                  <p className="projects__description">
-                    Laundry Services App
-                  </p>
+                  <p className="projects__description">Laundry Services App</p>
                 </div>
               </div>
             </SwiperSlide>
