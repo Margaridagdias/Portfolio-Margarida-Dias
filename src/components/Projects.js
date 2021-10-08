@@ -34,63 +34,7 @@ const Projects = () => {
             mousewheel={true}
             keyboard={true}
           >
-            <SwiperSlide>
-              {/* Project -1 */}
-              <div className="projects__content grid">
-                <img
-                  src="/images/thumbnail2.png"
-                  alt=""
-                  className="projects__img"
-                />
-                <div className="projects__data">
-                  <a
-                    href="https://gobank.netlify.app/"
-                    className="projects__title"
-                  >
-                    GoBank
-                  </a>
-                  <p className="projects__description">Banking App</p>
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              {/* Project 0 */}
-              <div className="projects__content grid">
-                <img
-                  src="/images/thumbnail.png"
-                  alt=""
-                  className="projects__img"
-                />
-                <div className="projects__data">
-                  <a
-                    href="https://mgd-clean-kangaroo.netlify.app/"
-                    className="projects__title"
-                  >
-                    Clean Kangaroo
-                  </a>
-                  <p className="projects__description">Laundry Services App</p>
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              {/* Project 0.5 */}
-              <div className="projects__content grid">
-                <img src="/images/BTB.png" alt="" className="projects__img" />
-                <div className="projects__data">
-                  <a
-                    href="https://bythebeauty.netlify.app/"
-                    className="projects__title"
-                  >
-                    BY THE BEAUTY
-                  </a>
-                  <p className="projects__description">
-                    Visual Identity Manual | University Project
-                  </p>
-                </div>
-              </div>
-            </SwiperSlide>
+          
 
             <SwiperSlide>
               {/* Project 1 */}
